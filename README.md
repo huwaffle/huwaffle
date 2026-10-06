@@ -1,5 +1,5 @@
-# 💫 About Me:
-You've found, Carlos Alcantara III!<br><br>I'm a Computer Science student at De La Salle–Araneta University with a passion for technology and software development. I'm particularly interested in AI, web development, and building software that solves real-world problems. I'm always learning, experimenting, and exploring new technologies to improve my skills.
+# You've found:
+Carlos Alcantara III!<br><br>I'm a Computer Science student at De La Salle–Araneta University with a passion for technology and software development. I'm particularly interested in AI, web development, and building software that solves real-world problems. I'm always learning, experimenting, and exploring new technologies to improve my skills.
 
 
 ## 🌐 Socials:
